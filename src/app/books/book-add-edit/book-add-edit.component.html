@@ -1,0 +1,57 @@
+<div class="container">
+  <h2 class="title">{{ title }}</h2>
+  <form #form="ngForm" novalidate [formGroup]="bookForm" (submit)="onSubmit()">
+    <!-- id -->
+    <mat-form-field filter appearance="outline">
+      <mat-label>id</mat-label>
+      <input matInput type="id" formControlName="id" />
+      <mat-error *ngIf="bookForm.controls['id'].hasError('required')"> This field is required. </mat-error>
+      <mat-error *ngIf="bookForm.controls['id'].hasError('minlength')"> Minimum length is 3 characters. </mat-error>
+    </mat-form-field>
+    <!-- title -->
+    <mat-form-field filter appearance="outline">
+      <mat-label>title</mat-label>
+      <input matInput type="title" formControlName="title" />
+      <mat-error *ngIf="bookForm.controls['title'].hasError('required')"> This field is required. </mat-error>
+      <mat-error *ngIf="bookForm.controls['title'].hasError('minlength')"> Minimum length is 3 characters. </mat-error>
+    </mat-form-field>
+    <!-- author -->
+    <mat-form-field filter appearance="outline">
+      <mat-label>author</mat-label>
+      <input matInput type="author" formControlName="author" />
+      <mat-error *ngIf="bookForm.controls['author'].hasError('required')"> This field is required. </mat-error>
+      <mat-error *ngIf="bookForm.controls['author'].hasError('minlength')"> Minimum length is 3 characters. </mat-error>
+    </mat-form-field>
+    <!-- publishedDate -->
+    <mat-form-field appearance="outline" filter>
+      <mat-label>Published Date</mat-label>
+      <input
+        matInput
+        [matDatepicker]="picker"
+        formControlName="publishedDate"
+      />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+      <mat-error *ngIf="bookForm.controls['publishedDate'].invalid"> Invalid date. </mat-error>
+
+    </mat-form-field>
+    <!-- description -->
+    <mat-form-field filter appearance="outline">
+      <mat-label>Description</mat-label>
+      <textarea matInput type="description" formControlName="description" rows="5" ></textarea>
+    </mat-form-field>
+    <div class="buttons-container">
+      <button mat-stroked-button (click)="cancel()" type="button">
+        Cancel
+      </button>
+      <button
+        mat-raised-button
+        color="primary"
+        [disabled]="!bookForm.valid"
+        type="submit"
+      >
+        Save
+      </button>
+    </div>
+  </form>
+</div>

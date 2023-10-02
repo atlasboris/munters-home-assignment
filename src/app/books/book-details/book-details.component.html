@@ -1,0 +1,9 @@
+<div class="info">
+    <h2 class="title">{{book.title}}</h2>
+    <i> {{book.publishedDate | date : "dd/MM/YYYY" }}</i>
+    <a [href]="book.link" target=”_blank” class="link">Link</a>
+    <p class="description">{{book.description}}</p>
+</div>
+<div class="cover-container">
+    <img [src]="book.thumbnail" alt="book cover" class="book-cover">
+</div>

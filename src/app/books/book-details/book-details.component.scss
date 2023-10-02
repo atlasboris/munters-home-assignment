@@ -1,0 +1,29 @@
+:host{
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    gap: 22px;
+
+    .info{
+        display: flex;
+        flex-direction: column;
+        .title{
+            margin-bottom: 22px;
+        }
+        .link{
+            margin: 11px 0;
+        }
+        .description{
+            max-height: 250px;
+            overflow-y: overlay;
+        }
+    }
+    .cover-container{
+        height: 250px;
+        width: 150px;
+        background-color: #eee;
+        .book-cover{
+            height: 250px;
+        }
+    }
+}

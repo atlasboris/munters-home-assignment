@@ -1,0 +1,728 @@
+[
+    {
+      "kind": "books#volume",
+      "id": "oTiyzQEACAAJ",
+      "etag": "CuOx7YhdoyQ",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/oTiyzQEACAAJ",
+      "volumeInfo": {
+        "title": "Learning Angular",
+        "subtitle": "A No-Nonsense Beginner's Guide to Building Web Applications with Angular 10 and TypeScript, 3rd Edition",
+        "authors": [
+          "Aristeidis Bampakos",
+          "Pablo Deeleman"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2020-09-04",
+        "description": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you. Learning Angular will cover the core concepts of frontend web development using easy-to-follow instructions to help you get up and running with Angular web development in no time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1839210664"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781839210662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oTiyzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oTiyzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oTiyzQEACAAJ&dq=Angular&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oTiyzQEACAAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Angular.html?hl=&id=oTiyzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oTiyzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0zZ1zQEACAAJ",
+      "etag": "9736VaU4PJ4",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/0zZ1zQEACAAJ",
+      "volumeInfo": {
+        "title": "Pro Angular 9",
+        "subtitle": "Build Powerful and Dynamic Web Apps",
+        "authors": [
+          "Adam Freeman"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2020-11-09",
+        "description": "The new edition of this concise and comprehensive guide is presented in full color and updated for Angular 9. Angular is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. Angular, which is maintained by Google, introduces novel ways for working with powerful new features, and brings new flexibility to web application development, all underpinned by the same Model-View-Controller (MVC) pattern that make the original Angular so successful. Best-selling author Adam Freeman explains how to get the most from Angular 9. He begins by describing the MVC pattern and the benefits it can offer and then shows you how to use Angular in your projects, starting from the nuts-and-bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need. What You Will Learn: Gain a solid architectural understanding of the MVC Pattern Learn how to create rich and dynamic web app clients using Angular Learn how to use the ng tools to create and build an Angular project Learn how to extend and customize Angular Learn how to unit test your Angular projects Each topic is covered clearly and concisely and is packed with the details you need to learn to be truly effective. The most important features are given a no-nonsense in-depth treatment and chapters include common problems and details of how to avoid them. Who This Book Is For:This book is for web developers with a foundation knowledge of HTML and JavaScript who want to create rich client-side applications",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1484259971"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484259979"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0zZ1zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0zZ1zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0zZ1zQEACAAJ&dq=Angular&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0zZ1zQEACAAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pro_Angular_9.html?hl=&id=0zZ1zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0zZ1zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book has accompanying online files for Angular 9, 10 and 11; all examples in the book work without changes in Angular 10 or 11."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uU8oDwAAQBAJ",
+      "etag": "a5owdrkBxkg",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/uU8oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Angular 2 Cookbook",
+        "authors": [
+          "Matt Frisbie"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-01-20",
+        "description": "Discover over 70 recipes that provide the solutions you need to know to face every challenge in Angular 2 head on About This Book A first-rate reference guide with a clear structure and intuitive index that gives you as a developer exactly the information you want in exactly the way you want it Covers no legacy material from the outdated Angular release candidates; it is up-to-date with the latest release of Angular 2.4 All the code in the book is explicitly written out, and every piece of code shown is a step towards building a simple working example Who This Book Is For This book is for developers who are competent with JavaScript and are looking to dive headfirst into the TypeScript edition of Angular 2. This book is also geared towards developers with experience in Angular 1 who are looking to make the transition. What You Will Learn Understand how to best move an Angular 1 application to Angular 2 Build a solid foundational understanding of the core elements of Angular 2 such as components, forms, and services Gain an ability to wield complex topics such as Observables and Promises Properly implement applications utilizing advanced topics such as dependency injection Know how to maximize the performance of Angular 2 applications Understand the best ways to take an Angular 2 application from TypeScript in a code editor to a fully function application served on your site Get to know the best practices when organizing and testing a large Angular 2 application In Detail Angular 2 introduces an entirely new way to build applications. It wholly embraces all the newest concepts that are built into the next generation of browsers, and it cuts away all the fat and bloat from Angular 1. This book plunges directly into the heart of all the most important Angular 2 concepts for you to conquer. In addition to covering all the Angular 2 fundamentals, such as components, forms, and services, it demonstrates how the framework embraces a range of new web technologies such as ES6 and TypeScript syntax, Promises, Observables, and Web Workers, among many others. This book covers all the most complicated Angular concepts and at the same time introduces the best practices with which to wield these powerful tools. It also covers in detail all the concepts you'll need to get you building applications faster. Oft-neglected topics such as testing and performance optimization are widely covered as well. A developer that reads through all the content in this book will have a broad and deep understanding of all the major topics in the Angular 2 universe. Style and approach This book follows a cookbook approach—each recipe presents a unique problem to which the solution is presented in a clear, concise, and manner step-by-step manner. With practical hands-on guidance in each and every recipe, you'll be able to get to grips with the concepts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785887505"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785887505"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uU8oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uU8oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uU8oDwAAQBAJ&printsec=frontcover&dq=Angular&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uU8oDwAAQBAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Angular_2_Cookbook.html?hl=&id=uU8oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uU8oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discover over 70 recipes that provide the solutions you need to know to face every challenge in Angular 2 head on About This Book A first-rate reference guide with a clear structure and intuitive index that gives you as a developer exactly ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1GmGzQEACAAJ",
+      "etag": "2Lhwe+tUNRQ",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/1GmGzQEACAAJ",
+      "volumeInfo": {
+        "title": "Beginning Angular with Typescript (updated to Angular 9)",
+        "authors": [
+          "Greg Lim"
+        ],
+        "publishedDate": "2020-04-06",
+        "description": "*Updated to Angular 9! Angular is one of the leading frameworks to develop apps across all platforms. Reuse your code and build fast and high performing apps for any platform be it web, mobile web, native mobile and native desktop. You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes! In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view. You'll start building Angular apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app. About the Reader This book is for developers with basic familiarity with HTML, CSS, Javascript and object-oriented programming. No TypeScript or AngularJS experience needed. About the Author Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing. Table of Contents Introduction Creating and Using Components Bindings Working with Components Conditional Rendering, Pipes and Ng-Content Template Driven Forms Model Driven Forms Introduction to Observables Getting Data From RESTful APIs with Observables Routing Structuring Large Apps With Modules C.R.U.D. with Firebase Authentication with Firebase",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973593793"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973593799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1GmGzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1GmGzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1GmGzQEACAAJ&dq=Angular&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1GmGzQEACAAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Angular_with_Typescript_update.html?hl=&id=1GmGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1GmGzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes! In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NpZGDwAAQBAJ",
+      "etag": "Ty18+fl2zMg",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/NpZGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "NativeScript for Angular Mobile Development",
+        "authors": [
+          "Nathan Walker",
+          "Nathanael J. Anderson"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-08-30",
+        "description": "Learn NativeScript to build native mobile applications with Angular, TypeScript, JavaScript About This Book Power packed hands-on guide to help you become pro-efficient with NativeScript Harness the power of your web development skills with JavaScript and Angular to build cross-platform mobile apps Create highly maintainable and feature-rich apps with TypeScript and NativeScript APIs Who This Book Is For This book assumes you have a general understanding of TypeScript, have heard of NativeScript and know what it's about, and are familiar with Angular (2.0). You don't need to be an expert in any of these technologies, but having some sense of them before reading is recommended this book, which is ideal for intermediate to advanced users. What You Will Learn Bootstrap a NativeScript for Angular app Best practices for project organization Style your app with CSS/SASS Use Angular together with NativeScript to create cross-platform mobile apps Take advantage of powerful Angular features, such as Dependency Injection, Components, Directives, Pipes, and NgModules right within your NativeScript apps Gain insight into great project organization and best practices Use Objective C/Swift and Java APIs directly from TypeScript Use rich framework features and third-party plugins Style your app with CSS/SASS Integrate @ngrx/store + @ngrx/effects to help with state management Test your app with Karma and Appium In Detail NativeScript is an open source framework that is built by Progress in order to build truly native mobile apps with TypeScript, JavaScript or just Angular which is an open source framework built by Google that offers declarative templates, dependency injection, and fully featured modules to build rich applications. Angular's versatile view handling architecture allows your views to be rendered as highly performant UI components native to iOS and Android mobile platforms. This decoupling of the view rendering layer in Angular combined with the power of native APIs with NativeScript have together created the powerful and exciting technology stack of NativeScript for Angular. This book focuses on the key concepts that you will need to know to build a NativeScript for Angular mobile app for iOS and Android. We'll build a fun multitrack recording studio app, touching on powerful key concepts from both technologies that you may need to know when you start building an app of your own. The structure of the book takes the reader from a void to a deployed app on both the App Store and Google Play, serving as a reference guide and valuable tips/tricks handbook. By the end of this book, you'll know majority of key concepts needed to build a successful NativeScript for Angular app.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787124691"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "178712469X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NpZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NpZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NpZGDwAAQBAJ&printsec=frontcover&dq=Angular&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NpZGDwAAQBAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/NativeScript_for_Angular_Mobile_Developm.html?hl=&id=NpZGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NpZGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn NativeScript to build native mobile applications with Angular, TypeScript, JavaScript About This Book Power packed hands-on guide to help you become pro-efficient with NativeScript Harness the power of your web development skills with ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Znc5DwAAQBAJ",
+      "etag": "7lKC1AAUr1g",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/Znc5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Essential Angular",
+        "authors": [
+          "Victor Savkin",
+          "Jeff Cross"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-05-31",
+        "description": "Essential Angular is a concise, complete overview of the key aspects of Angular, written by two Angular core contributors. The book covers the framework's mental model, its API, and the design principles behind it. It is fully up to date with the latest release of Angular. About This Book Written by two Angular core contributors A complete overview of the key aspects of Angular Up to date with the latest Angular release Who This Book Is For To get the most from this book, you should already have a good understanding of Angular and general web development. The book dives quickly into the core Angular systems without stepping through the basics. What You Will Learn Understand why and how to use JIT and AOT compilation in Angular Bootstrap and inject NgModules Learn about the component lifecycle Understand the two phases of Change Detection Visualize and parse the Injector tree Understand advanced Lazy Loading Integrate and run different testing strategies on your code In Detail Essential Angular is a concise, complete overview of the key aspects of Angular, written by two Angular core contributors. The book covers the framework's mental model, its API, and the design principles behind it. This book is fully up to date with the latest release of Angular. Essential Angular gives you a strong foundation in the core Angular technology. It will help you put all the concepts into the right places so you will have a good understanding of why the framework is the way it is. Read this book after you have toyed around with the framework, but before you embark on writing your first serious Angular application. This book covers concepts such as the differences between Just-In-Time (JIT) and Ahead-Of-Time (AOT) compilation in Angular, alongside NgModules, components and directives. It also goes into detail on Dependency Injection and Change Detection: essential skills for Angular developers to master. The book finishes with a look at testing, and how to integrate different testing methodologies in your Angular code. Style and approach Essential Angular is a complete overview of the key aspects of the latest release of Angular, written by two core Angular contributors. It goes far beyond a how-to-get-started guide and dives into the most important topics in modern Angular development at depth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788291040"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788291042"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Znc5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Znc5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Znc5DwAAQBAJ&printsec=frontcover&dq=Angular&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Znc5DwAAQBAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essential_Angular.html?hl=&id=Znc5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Znc5DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book covers the framework&#39;s mental model, its API, and the design principles behind it. This book is fully up to date with the latest release of Angular. Essential Angular gives you a strong foundation in the core Angular technology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BHs2DwAAQBAJ",
+      "etag": "InLesJkZY80",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/BHs2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning Angular",
+        "subtitle": "A Hands-On Guide to Angular 2 and Angular 4",
+        "authors": [
+          "Brad Dayley",
+          "Brendan Dayley",
+          "Caleb Dayley"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2017-09-19",
+        "description": "Learning Angular, Second Edition A Hands-On Guide to Angular 2 and Angular 4 Learning Angular teaches modern application development with Angular 2 and Angular 4. It begins with the basics of Angular and the technologies and techniques used throughout the book, such as key features of TypeScript, newer ES6 syntax and concepts, and details about the tools needed to write professional Angular applications. The reader will next build an Angular application from scratch while learning about the primary pieces of an Angular application and see how they work together. Using lots of examples, the core parts of Angular will be introduced, such as Components, the Router, and Services. The book also covers techniques like server-side rendering and how to incrementally add Angular 2+ features to existing AngularJS applications. Finally, the reader will gain insight into advanced skills that should be part of any professional Angular developer’s toolkit such as testing, tooling options, and performance tuning. Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to your model and UI occur automatically in tandem Define custom Angular directives that extend HTML Implement zoomable images, expandable lists, and other rich UI components Implement client-side services that interact with web servers Build dynamic browser views to provide even richer user interaction Create custom services you can easily reuse Implement rich UI components as custom Angular directives Contents at a Glance Introduction What is Angular Why Use Angular Who this Book is For How to Use this Book Getting the Source Code Chapter 1: Jumping into JavaScript Setting Up a JavaScript Development Environment Defining Variables Understanding JavaScript Data Types Using Operators Implementing Looping Creating Functions Understanding Variable Scope Using JavaScript Objects Manipulating Strings Working with Arrays Adding Error Handling Chapter 2: Jumping into TypeScript Learning the Different Types Understanding Interfaces Implementing Classes Implementing Modules Understanding Functions Chapter 3: Getting Started with Angular Why Angular? Understanding Angular Separation of Responsibilities Adding Angular to Your Environment Using the Angular CLI Creating a Basic Angular Application Chapter 4: Angular Components Component Configuration Building the Template Using Constructors Using External Templates Implementing Directives Chapter 5: Expressions Using Expressions Using Pipes Building a Custom Pipe Chapter 6: Data Binding Understanding Data Binding Interpolation Property Binding Attribute Binding Class Binding Style Binding Event Binding Two-Way Binding Chapter 7: Built-in Directives Understanding Directives Using Built-in Directives Structural Directives Attribute Directives Chapter 8: Custom Directives Creating a Custom Attribute Directive Creating a Custom Directive with a Component Chapter 9: Events and Change Detection Using Browser Events Emitting Custom Events Using Observables Chapter 10: Implementing Angular Services in Web Applications Understanding Angular Services Using the Built in Services Sending HTTP GET and PUT Requests with the http Service Implementing a Simple Mock Server Using the http Service Changing Views with the router Service Implementing a Router with a Navigation Bar Implementing a Router with Parameters Chapter 11: Creating Your Own Custom Angular Service Integrating Custom Services into Angular Applications Implementing a Simple Application That Uses a Constant Data Service Implementing a Data Transform Service Implementing a Variable Data Service Implementing a Service that Returns a Promise Implementing a Shared Service Chapter 12: Having Fun with Angular Implementing an Angular Application That Uses the Animation Service Implementing an Angular Application That Zooms in on Images Implementing an Angular Application That Enables Drag and Drop Implementing a Star Rating Angular Component",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780134577029"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0134577027"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BHs2DwAAQBAJ&printsec=frontcover&dq=Angular&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BHs2DwAAQBAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Angular.html?hl=&id=BHs2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Learning_Angular-sample-epub.acsm?id=BHs2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Learning_Angular-sample-pdf.acsm?id=BHs2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BHs2DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4TzizQEACAAJ",
+      "etag": "HOsl/WskoqE",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/4TzizQEACAAJ",
+      "volumeInfo": {
+        "title": "Beginning Angular with Typescript",
+        "authors": [
+          "Greg Lim"
+        ],
+        "publisher": "Greg Lim",
+        "publishedDate": "2020-09",
+        "description": "Angular is one of the leading frameworks to develop apps across all platforms. Reuse your code and build fast and high performing apps for any platform be it web, mobile web, native mobile and native desktop. You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes! In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view. You'll start building Angular apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app. About the Reader This book is for developers with basic familiarity with HTML, CSS, Javascript and object-oriented programming. No TypeScript or AngularJS experience needed. About the Author Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing. Table of Contents Introduction Creating and Using Components Bindings Working with Components Conditional Rendering, Pipes and Ng-Content Template Driven Forms Model Driven Forms Introduction to Observables Getting Data From RESTful APIs with Observables Routing Structuring Large Apps With Modules C.R.U.D. with Firebase/Firestore Authentication with Firebase/Firestore Implementing for Multiple Users",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9811480273"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789811480270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4TzizQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4TzizQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4TzizQEACAAJ&dq=Angular&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4TzizQEACAAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Angular_with_Typescript.html?hl=&id=4TzizQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4TzizQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes! In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qys8zgEACAAJ",
+      "etag": "UyeJECNOisk",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/qys8zgEACAAJ",
+      "volumeInfo": {
+        "title": "Angular For Dummies",
+        "subtitle": "A Comprehensive Beginner's Guide to Angular.js",
+        "authors": [
+          "Rufus Stewart"
+        ],
+        "publishedDate": "2021-02-16",
+        "description": "Coding with AngularJS For DummiesWell, you're in good hands !But we have a long road, you and me, with lots of things to learn: ).We're living exciting times in Web development. There is a new Angular. A complete rewrite of the good old AngularJS. Why a complete rewrite? Was AngularJS 1.x not enough?I like the old AngularJS very much. In our small company, we have built several projects with it, contributed code to the core framework, trained hundreds of developers (yes, really), and even written a book about it (in French, but that still counts).AngularJS is incredibly productive once you have mastered it. Despite all of this, it doesn't preventus from seeing its weaknesses. AngularJS is not perfect, with some very difficult concepts to grasp, and traps hard to avoid.Most of all, the Web has changed since AngularJS was conceived. JavaScript has changed. ***New frameworks have emerged, with great ideas, or better implementation. We are not the kind of developers to tell you that you should use this tool instead of that one. We just happen to know some tools very well, and know what fits the project. AngularJS was one of those tools, allowing usto build well-tested web applications, and to build them fast. We also tried to bend it where it didn'tfit. Don't blame us, it happens to the best of us.Will Angular be the tool we will use without hesitation in our future projects? It's hard to say right now, because the framework is really young and the ecosystem only just blooming.But Angular has a lot of interesting points, and a vision that few other frameworks have. It has been designed for the Web of tomorrow, with ECMAScript 6, Web Components and Mobile in mind.When it was first announced, I was, like many, sad at first that the 2.0 version would not be a simple update (I'm sorry if you're just learning about it).***But I was also eager to see what solution the talented Google team would come up with.So I started to write this ebook, pretty much after the first commits, reading the design docs, watching the conference videos, reviewing every commit since the beginning. When I wrote my first ebook, about AngularJS 1.x, it was already a stable and known beast. This one is very different, it started when Angular was not even clear in the minds of its designers. Because I knew I wouldlearn a lot, not only about Angular but also about the concepts that would shape the future of Web development, some of which have nothing to do with Angular. And I did. I had to dig a lot about some of these concepts, and I hope that you will enjoy the journey of learning about them, and how they relate to Angular, as much as I did.The ambition of this ebook is to evolve with Angular. If it turns out that Angular is the great framework we hope, you will receive updates with the best practices and some new features as they emerge (and with fewer typos, because, despite our countless reviews, there are probably some left...). And I would love to hear back from you - if some chapters aren't clear enough, if you spot a mistake or if you have a better way for some parts.I'm fairly confident about the code samples, though, as they are all in a real project, with several hundred unit tests. It was the only way to write an ebook with a newborn framework, and to beable to catch all the problems that inevitably arose with each release.Even if you are not convinced by Angular in the end, I'm pretty sure you will have learnt a thing or two along your read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798709919594"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qys8zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qys8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qys8zgEACAAJ&dq=Angular&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qys8zgEACAAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Angular_For_Dummies.html?hl=&id=qys8zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qys8zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Coding with AngularJS For DummiesWell, you&#39;re in good hands !But we have a long road, you and me, with lots of things to learn: ).We&#39;re living exciting times in Web development."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dr0YEAAAQBAJ",
+      "etag": "pIyuc1+51kQ",
+      "selfLink": "https://books.googleapis.com/books/v1/volumes/Dr0YEAAAQBAJ",
+      "volumeInfo": {
+        "title": "ASP.NET Core 5 and Angular",
+        "subtitle": "Full-stack web development with .NET 5 and Angular 11, 4th Edition",
+        "authors": [
+          "Valerio De Sanctis"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-01-29",
+        "description": "Build robust modern web applications using .NET 5, Entity Framework Core, and Angular 11 Key FeaturesUpdated with the latest features and additions in ASP.NET Core 5 and Angular 11Design, build, and deploy a Single Page Application or Progressive Web AppAdopt a full stack approach to handle data management, Web APIs, application design, testing, SEO, security, and deploymentBook Description Learning full-stack development calls for knowledge of both front-end and back-end web development. ASP.NET Core 5 and Angular, Fourth Edition will enhance your ability to create, debug, and deploy efficient web applications using ASP.NET Core and Angular. This revised edition includes coverage of the Angular routing module, expanded discussion on the Angular CLI, and detailed instructions for deploying apps on Azure, as well as both Windows and Linux. Taking care to explain and challenge design choices made throughout the text, Valerio teaches you how to build a data model with Entity Framework Core, alongside utilizing the Entity Core Fluent API and EntityTypeConfiguration class. You’ll learn how to fetch and display data and handle user input with Angular reactive forms and front-end and back-end validators for maximum effect. Later, you will perform advanced debugging and explore the unit testing features provided by xUnit.net (.NET 5) and Jasmine, as well as Karma for Angular. After adding authentication and authorization to your apps, you will explore progressive web applications (PWAs), learning about their technical requirements, testing, and converting SWAs to PWAs. By the end of this book, you will understand how to tie together the front end and back end to build and deploy secure and robust web applications. What you will learnImplement a web API interface with ASP.NET Core and consume it with Angular using RxJS observablesSet up an SQL database server using a local instance or a cloud data storePerform C# and TypeScript debugging using Visual Studio 2019Create TDD and BDD unit tests using xUnit, Jasmine, and KarmaPerform DBMS structured logging using third-party providers such as SeriLogDeploy web apps to Windows and Linux web servers, or Azure App Service, using IIS, Kestrel, and nginxWho this book is for This book is for experienced ASP.NET developers who already possess some familiarity with ASP.NET Core and Angular and are looking to learn how to use them effectively together. The fully documented code samples (also available on GitHub) and the step-by-step implementation tutorials make this book easy to follow.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800562219"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1800562217"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 747,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dr0YEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dr0YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Dr0YEAAAQBAJ&pg=PA708&dq=Angular&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Dr0YEAAAQBAJ&dq=Angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ASP_NET_Core_5_and_Angular.html?hl=&id=Dr0YEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dr0YEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Angular</b> authentication AuthSample project, creating 534, 535 implementing 534 <b>Angular</b> authorization APIs authorization components 546 exploring 537-539 Http interceptor 544, 546 registration and login, testing 552 route guards 539 <b>Angular</b>&nbsp;..."
+      }
+    }
+  ]
