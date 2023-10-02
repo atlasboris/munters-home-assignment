@@ -2,7 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
-In this project was used Angular Material library "@angular/material": "^16.2.6"
+This project used the Angular Material library "@angular/material": "^16.2.6"
+
+The project was deployed to Firebase hosting. Here is the link:
+
+https://munters-home-assignment.web.app/
 
 
 # Can be improved:
