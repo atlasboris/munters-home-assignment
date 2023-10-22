@@ -13,6 +13,7 @@
     <ng-container matColumnDef="id">
       <th mat-header-cell *matHeaderCellDef>Id</th>
       <td mat-cell *matCellDef="let element" data-label="id">
+        <span class="mobile-label">Id:</span>
         {{ element.id }}
       </td>
     </ng-container>
@@ -20,6 +21,7 @@
     <ng-container matColumnDef="title">
       <th mat-header-cell *matHeaderCellDef>Title</th>
       <td mat-cell *matCellDef="let element" data-label="title">
+        <span class="mobile-label">Title:</span>
         {{ element.title }}
       </td>
     </ng-container>
@@ -27,6 +29,7 @@
     <ng-container matColumnDef="author">
       <th mat-header-cell *matHeaderCellDef>Author</th>
       <td mat-cell *matCellDef="let element" data-label="author">
+        <span class="mobile-label">Author:</span>
         {{ element.author }}
       </td>
     </ng-container>
@@ -34,6 +37,7 @@
     <ng-container matColumnDef="publishedDate">
       <th mat-header-cell *matHeaderCellDef>Published Date</th>
       <td mat-cell *matCellDef="let element" data-label="publishedDate">
+        <span class="mobile-label">Published Date:</span>
         {{ element.publishedDate | date : "dd/MM/YYYY" }}
       </td>
     </ng-container>
@@ -41,13 +45,15 @@
     <ng-container matColumnDef="description">
       <th mat-header-cell *matHeaderCellDef>Description</th>
       <td mat-cell *matCellDef="let element" data-label="description">
-        {{ element.description | ellipsis: 100 }}
+        <span class="mobile-label">Description:</span>
+       {{ element.description | ellipsis: 50 }}
       </td>
     </ng-container>
 
     <ng-container matColumnDef="categories">
       <th mat-header-cell *matHeaderCellDef>Categories</th>
       <td mat-cell *matCellDef="let element" data-label="categories">
+        <span class="mobile-label">Categories:</span>
         {{ element.categories }}
       </td>
     </ng-container>
